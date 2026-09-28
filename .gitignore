@@ -1,0 +1,5 @@
+cats/
+__pycache__/
+*.pyc
+cats_sesp.db
+.env
