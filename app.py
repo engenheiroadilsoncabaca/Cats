@@ -846,13 +846,13 @@ menu = st.sidebar.radio(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.info(
-    "Sistema em conformidade com:\n"
-    "- Resolução SESP/PR 2026\n"
-    "- PoSIC SESP-PR v2.0 (NSIC-01 a 11)\n"
-    "- Deliberação CGD-SI nº 5/2025\n"
-    "- Guia de PDTIC do SISP v2.1"
-)
+# st.sidebar.info(
+#     "Sistema em conformidade com:\n"
+#     "- Resolução SESP/PR 2026\n"
+#     "- PoSIC SESP-PR v2.0 (NSIC-01 a 11)\n"
+#     "- Deliberação CGD-SI nº 5/2025\n"
+#     "- Guia de PDTIC do SISP v2.1"
+# )
 
 # -----------------------------------------------------------------------------
 # MÓDULO 1: GESTÃO DE PROJETOS (COM EDIÇÃO E EXCLUSÃO)
